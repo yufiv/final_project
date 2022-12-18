@@ -1,2 +1,5 @@
 class Player():
-    pass
+    def moveUp(self):
+        pass
+    def moveDown(self):
+        pass
